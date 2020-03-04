@@ -6,4 +6,4 @@ There are a fair number of people who refuse to receive flu vaccination every ye
 
 I also want to see if there is any relationship between "always" wearing seat belts while driving a car and getting yearly flu vaccination--if not always wearing seat belts could be consider as an indicator of people being careless and not taking care of themselves as they should be. 
 
-### Please open the pdf file to see my entire analysis on R
+### Please open the pdf file to see my entire analysis on R.
