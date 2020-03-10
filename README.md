@@ -1,5 +1,5 @@
 # Who got the flushot?
-An analysis of who have received the flu vaccination using BRFSS survey data of 2016-2018
+An analysis of who have received the flu vaccination using BRFSS survey data of 2016-2018 using R
 
 ## Introduction
 There are a fair number of people who refuse to receive flu vaccination every year. The flu vaccine this year (2019) was brought up as a big issue because it did not match the circulating fl so well this flu season. I got the flu shot as I personally thought yearly vaccination was still worth getting. At the same time, I have grown interested in who tend to receive yearly flu vaccinations.
